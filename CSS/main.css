@@ -1,0 +1,13 @@
+div{
+	width:500px;
+	height:100px;
+	position: relative;
+	margin-top: 250px;
+	margin-left:400px;
+} 
+div h2{
+	position: absolute;
+	margin-top: 30px;
+	margin-left: 120px;
+
+}
